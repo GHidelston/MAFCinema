@@ -58,7 +58,7 @@
   {
     "Judul": "Superman (Legacy)",
     "Sinopsis": "Menceritakan upaya Clark Kent untuk menyeimbangkan warisan Krypton-nya dengan didikan manusianya di tengah dunia yang mulai meragukan pahlawan.",
-    "Rating": "0.0",
+    "Rating": "8.3",
     "Tahun": "2025",
     "Genre": "Aksi/Sci-Fi/Petualangan",
     "Sutradara": "James Gunn"
@@ -154,7 +154,7 @@
   {
     "Judul": "Nosferatu",
     "Sinopsis": "Sebuah kisah gotik tentang obsesi antara seorang wanita muda yang menderita dan vampir kuno yang menakutkan dari Transylvania.",
-    "Rating": "0.0",
+    "Rating": "8.2",
     "Tahun": "2024",
     "Genre": "Horor/Fantasi",
     "Sutradara": "Robert Eggers"
@@ -250,7 +250,7 @@
   {
     "Judul": "Mission: Impossible – The Final Reckoning",
     "Sinopsis": "Ethan Hunt menghadapi ancaman global paling berbahaya dalam puncak aksi ekstrem yang menguji batas kemampuannya sebagai agen.",
-    "Rating": "0.0",
+    "Rating": "8.5",
     "Tahun": "2025",
     "Genre": "Aksi/Thriller/Petualangan",
     "Sutradara": "Christopher McQuarrie"
@@ -399,4 +399,5 @@
     "Genre": "Aksi/Petualangan/Sci-Fi",
     "Sutradara": "George Miller"
   }
+
 ]
