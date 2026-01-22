@@ -1,0 +1,402 @@
+[
+  {
+    "Judul": "The Godfather",
+    "Sinopsis": "Kisah epik keluarga mafia Corleone di New York saat sang patriark, Vito Corleone, menyerahkan kendali kekaisaran kriminalnya kepada putranya yang enggan, Michael.",
+    "Rating": "9.2",
+    "Tahun": "1972",
+    "Genre": "Crime/Drama",
+    "Sutradara": "Francis Ford Coppola"
+  },
+  {
+    "Judul": "The Shawshank Redemption",
+    "Sinopsis": "Dua narapidana menjalin persahabatan selama bertahun-tahun, menemukan pelipur lara dan penebusan dosa melalui tindakan kesusilaan yang sederhana.",
+    "Rating": "9.3",
+    "Tahun": "1994",
+    "Genre": "Drama",
+    "Sutradara": "Frank Darabont"
+  },
+  {
+    "Judul": "Parasite",
+    "Sinopsis": "Keluarga miskin yang licik perlahan-lahan menyusup ke dalam kehidupan keluarga kaya dengan menyamar sebagai pekerja domestik yang tidak saling kenal.",
+    "Rating": "8.5",
+    "Tahun": "2019",
+    "Genre": "Thriller/Drama",
+    "Sutradara": "Bong Joon-ho"
+  },
+  {
+    "Judul": "The Dark Knight",
+    "Sinopsis": "Batman harus menghadapi ancaman psikologis dari Joker, seorang dalang kriminal anarkis yang ingin menjatuhkan keadilan di Gotham City.",
+    "Rating": "9.0",
+    "Tahun": "2008",
+    "Genre": "Aksi/Crime/Drama",
+    "Sutradara": "Christopher Nolan"
+  },
+  {
+    "Judul": "Schindler's List",
+    "Sinopsis": "Kisah nyata Oskar Schindler, seorang pengusaha Jerman yang menyelamatkan lebih dari seribu pengungsi Yahudi selama Holocaust.",
+    "Rating": "9.0",
+    "Tahun": "1993",
+    "Genre": "Biografi/Drama/Sejarah",
+    "Sutradara": "Steven Spielberg"
+  },
+  {
+    "Judul": "Pulp Fiction",
+    "Sinopsis": "Kehidupan dua pembunuh bayaran, seorang petinju, istri gangster, dan sepasang perampok restoran saling terkait dalam empat kisah kekerasan dan penebusan.",
+    "Rating": "8.9",
+    "Tahun": "1994",
+    "Genre": "Crime/Drama",
+    "Sutradara": "Quentin Tarantino"
+  },
+  {
+    "Judul": "Spirited Away",
+    "Sinopsis": "Seorang gadis kecil terjebak di dunia roh yang ajaib dan harus bekerja di pemandian penyihir untuk menyelamatkan orang tuanya yang berubah menjadi babi.",
+    "Rating": "8.6",
+    "Tahun": "2001",
+    "Genre": "Animasi/Petualangan/Fantasi",
+    "Sutradara": "Hayao Miyazaki"
+  },
+  {
+    "Judul": "Superman (Legacy)",
+    "Sinopsis": "Menceritakan upaya Clark Kent untuk menyeimbangkan warisan Krypton-nya dengan didikan manusianya di tengah dunia yang mulai meragukan pahlawan.",
+    "Rating": "0.0",
+    "Tahun": "2025",
+    "Genre": "Aksi/Sci-Fi/Petualangan",
+    "Sutradara": "James Gunn"
+  },
+  {
+    "Judul": "Interstellar",
+    "Sinopsis": "Sekelompok penjelajah melakukan perjalanan melalui lubang cacing di luar angkasa dalam upaya untuk memastikan kelangsungan hidup umat manusia.",
+    "Rating": "8.7",
+    "Tahun": "2014",
+    "Genre": "Sci-Fi/Drama/Petualangan",
+    "Sutradara": "Christopher Nolan"
+  },
+  {
+    "Judul": "Seven Samurai",
+    "Sinopsis": "Sebuah desa petani yang putus asa menyewa tujuh samurai pengangguran untuk membela mereka dari bandit yang akan mencuri hasil panen.",
+    "Rating": "8.6",
+    "Tahun": "1954",
+    "Genre": "Aksi/Drama",
+    "Sutradara": "Akira Kurosawa"
+  },
+  {
+    "Judul": "Inception",
+    "Sinopsis": "Seorang pencuri yang mencuri rahasia perusahaan melalui teknologi berbagi mimpi diberi tugas terbalik: menanamkan ide ke dalam pikiran seorang CEO.",
+    "Rating": "8.8",
+    "Tahun": "2010",
+    "Genre": "Aksi/Sci-Fi/Thriller",
+    "Sutradara": "Christopher Nolan"
+  },
+  {
+    "Judul": "Everything Everywhere All At Once",
+    "Sinopsis": "Seorang imigran Tionghoa paruh baya terseret ke dalam petualangan gila di mana dia harus menyelamatkan dunia dengan menjelajahi alam semesta paralel.",
+    "Rating": "7.8",
+    "Tahun": "2022",
+    "Genre": "Aksi/Petualangan/Komedi",
+    "Sutradara": "Daniel Kwan & Daniel Scheinert"
+  },
+  {
+    "Judul": "The Matrix",
+    "Sinopsis": "Seorang hacker komputer mempelajari sifat sebenarnya dari realitasnya dan perannya dalam perang melawan penguasa yang mengendalikannya.",
+    "Rating": "8.7",
+    "Tahun": "1999",
+    "Genre": "Aksi/Sci-Fi",
+    "Sutradara": "Lana & Lilly Wachowski"
+  },
+  {
+    "Judul": "Goodfellas",
+    "Sinopsis": "Kisah Henry Hill dan kehidupannya di gerombolan mafia, mencakup hubungannya dengan istri dan mitra kriminalnya dalam sindikat kejahatan Italia-Amerika.",
+    "Rating": "8.7",
+    "Tahun": "1990",
+    "Genre": "Biografi/Crime/Drama",
+    "Sutradara": "Martin Scorsese"
+  },
+  {
+    "Judul": "The Wild Robot",
+    "Sinopsis": "Sebuah robot cerdas terdampar di pulau tak berpenghuni dan harus belajar beradaptasi dengan lingkungan keras serta menjalin hubungan dengan hewan setempat.",
+    "Rating": "8.3",
+    "Tahun": "2024",
+    "Genre": "Animasi/Petualangan/Drama",
+    "Sutradara": "Chris Sanders"
+  },
+  {
+    "Judul": "Citizen Kane",
+    "Sinopsis": "Setelah kematian seorang taipan penerbitan, wartawan berebut untuk mengungkap makna kata terakhirnya: 'Rosebud'.",
+    "Rating": "8.3",
+    "Tahun": "1941",
+    "Genre": "Drama/Misteri",
+    "Sutradara": "Orson Welles"
+  },
+  {
+    "Judul": "12 Angry Men",
+    "Sinopsis": "Seorang juri berusaha meyakinkan 11 juri lainnya bahwa seorang saksi mungkin salah, dalam sebuah kasus pembunuhan yang tampak sudah jelas.",
+    "Rating": "9.0",
+    "Tahun": "1957",
+    "Genre": "Crime/Drama",
+    "Sutradara": "Sidney Lumet"
+  },
+  {
+    "Judul": "Fight Club",
+    "Sinopsis": "Seorang pekerja kantoran yang menderita insomnia dan seorang pembuat sabun yang karismatik membentuk klub pertarungan bawah tanah.",
+    "Rating": "8.8",
+    "Tahun": "1999",
+    "Genre": "Drama",
+    "Sutradara": "David Fincher"
+  },
+  {
+    "Judul": "Forrest Gump",
+    "Sinopsis": "Seorang pria dengan IQ rendah menyaksikan dan secara tidak sengaja mempengaruhi beberapa peristiwa bersejarah di Amerika Serikat pada abad ke-20.",
+    "Rating": "8.8",
+    "Tahun": "1994",
+    "Genre": "Drama/Romansa",
+    "Sutradara": "Robert Zemeckis"
+  },
+  {
+    "Judul": "Nosferatu",
+    "Sinopsis": "Sebuah kisah gotik tentang obsesi antara seorang wanita muda yang menderita dan vampir kuno yang menakutkan dari Transylvania.",
+    "Rating": "0.0",
+    "Tahun": "2024",
+    "Genre": "Horor/Fantasi",
+    "Sutradara": "Robert Eggers"
+  },
+  {
+    "Judul": "The Lord of the Rings: The Return of the King",
+    "Sinopsis": "Frodo dan Sam mencapai Gunung Doom untuk menghancurkan Cincin Utama sementara Aragorn memimpin pasukan manusia melawan tentara Sauron.",
+    "Rating": "9.0",
+    "Tahun": "2003",
+    "Genre": "Aksi/Petualangan/Drama",
+    "Sutradara": "Peter Jackson"
+  },
+  {
+    "Judul": "Léon: The Professional",
+    "Sinopsis": "Seorang pembunuh bayaran profesional merawat seorang gadis berusia 12 tahun setelah keluarganya dibunuh oleh agen DEA yang korup.",
+    "Rating": "8.5",
+    "Tahun": "1994",
+    "Genre": "Aksi/Crime/Drama",
+    "Sutradara": "Luc Besson"
+  },
+  {
+    "Judul": "Gladiator",
+    "Sinopsis": "Seorang mantan jenderal Romawi berusaha membalas dendam terhadap kaisar korup yang membunuh keluarganya dan mengirimnya ke perbudakan.",
+    "Rating": "8.5",
+    "Tahun": "2000",
+    "Genre": "Aksi/Petualangan/Drama",
+    "Sutradara": "Ridley Scott"
+  },
+  {
+    "Judul": "Dune: Part Two",
+    "Sinopsis": "Paul Atreides bersatu dengan Chani dan kaum Fremen untuk membalas dendam terhadap para konspirator yang menghancurkan keluarganya.",
+    "Rating": "8.6",
+    "Tahun": "2024",
+    "Genre": "Aksi/Petualangan/Sci-Fi",
+    "Sutradara": "Denis Villeneuve"
+  },
+  {
+    "Judul": "Psycho",
+    "Sinopsis": "Seorang sekretaris yang melarikan diri menginap di sebuah motel terpencil yang dikelola oleh seorang pria muda di bawah dominasi ibunya.",
+    "Rating": "8.5",
+    "Tahun": "1960",
+    "Genre": "Horor/Misteri/Thriller",
+    "Sutradara": "Alfred Hitchcock"
+  },
+  {
+    "Judul": "The Silence of the Lambs",
+    "Sinopsis": "Seorang taruna FBI muda harus meminta bantuan dari seorang pembunuh kanibal yang dipenjara untuk menangkap pembunuh berantai lainnya.",
+    "Rating": "8.6",
+    "Tahun": "1991",
+    "Genre": "Crime/Drama/Thriller",
+    "Sutradara": "Jonathan Demme"
+  },
+  {
+    "Judul": "City of God",
+    "Sinopsis": "Dua pemuda tumbuh di lingkungan kumuh Rio de Janeiro yang kejam; satu menjadi fotografer, yang lain menjadi gembong narkoba.",
+    "Rating": "8.6",
+    "Tahun": "2002",
+    "Genre": "Crime/Drama",
+    "Sutradara": "Fernando Meirelles"
+  },
+  {
+    "Judul": "Oppenheimer",
+    "Sinopsis": "Kisah fisikawan teoretis J. Robert Oppenheimer dan perannya dalam pengembangan bom atom selama Proyek Manhattan.",
+    "Rating": "8.3",
+    "Tahun": "2023",
+    "Genre": "Biografi/Drama/Sejarah",
+    "Sutradara": "Christopher Nolan"
+  },
+  {
+    "Judul": "Joker",
+    "Sinopsis": "Seorang komedian yang gagal dan menderita masalah mental terisolasi dari masyarakat hingga ia bertransformasi menjadi ikon kriminal.",
+    "Rating": "8.4",
+    "Tahun": "2019",
+    "Genre": "Crime/Drama/Thriller",
+    "Sutradara": "Todd Phillips"
+  },
+  {
+    "Judul": "Spider-Man: Across the Spider-Verse",
+    "Sinopsis": "Miles Morales melintasi Multiverse, di mana ia bertemu dengan tim Spider-People yang bertugas melindungi keberadaannya.",
+    "Rating": "8.6",
+    "Tahun": "2023",
+    "Genre": "Animasi/Aksi/Petualangan",
+    "Sutradara": "Joaquim Dos Santos"
+  },
+  {
+    "Judul": "Saving Private Ryan",
+    "Sinopsis": "Setelah pendaratan D-Day, sekelompok tentara AS pergi ke belakang garis musuh untuk menjemput seorang prajurit yang saudara-saudaranya telah tewas.",
+    "Rating": "8.6",
+    "Tahun": "1998",
+    "Genre": "Drama/Perang",
+    "Sutradara": "Steven Spielberg"
+  },
+  {
+    "Judul": "Mission: Impossible – The Final Reckoning",
+    "Sinopsis": "Ethan Hunt menghadapi ancaman global paling berbahaya dalam puncak aksi ekstrem yang menguji batas kemampuannya sebagai agen.",
+    "Rating": "0.0",
+    "Tahun": "2025",
+    "Genre": "Aksi/Thriller/Petualangan",
+    "Sutradara": "Christopher McQuarrie"
+  },
+  {
+    "Judul": "The Departed",
+    "Sinopsis": "Seorang polisi yang menyamar dan seorang tahi lalat di kepolisian mencoba mengidentifikasi satu sama lain saat menyusup ke geng Irlandia di Boston.",
+    "Rating": "8.5",
+    "Tahun": "2006",
+    "Genre": "Crime/Drama/Thriller",
+    "Sutradara": "Martin Scorsese"
+  },
+  {
+    "Judul": "Whiplash",
+    "Sinopsis": "Seorang drummer muda yang menjanjikan mendaftar di konservatori musik yang kejam di mana instruksinya tidak berhenti untuk mencapai kesempurnaan.",
+    "Rating": "8.5",
+    "Tahun": "2014",
+    "Genre": "Drama/Musik",
+    "Sutradara": "Damien Chazelle"
+  },
+  {
+    "Judul": "Oldboy",
+    "Sinopsis": "Setelah diculik dan dipenjara selama lima belas tahun, Oh Dae-Su dibebaskan, hanya untuk menemukan bahwa dia masih terjebak dalam jaring konspirasi.",
+    "Rating": "8.4",
+    "Tahun": "2003",
+    "Genre": "Aksi/Drama/Misteri",
+    "Sutradara": "Park Chan-wook"
+  },
+  {
+    "Judul": "Inglourious Basterds",
+    "Sinopsis": "Di Prancis yang diduduki Nazi, sekelompok tentara Yahudi-Amerika merencanakan pembunuhan para pemimpin Nazi.",
+    "Rating": "8.4",
+    "Tahun": "2009",
+    "Genre": "Petualangan/Drama/Perang",
+    "Sutradara": "Quentin Tarantino"
+  },
+  {
+    "Judul": "The Prestige",
+    "Sinopsis": "Setelah tragedi tragis, dua pesulap panggung di London abad ke-19 terlibat dalam pertempuran untuk menciptakan ilusi pamungkas.",
+    "Rating": "8.5",
+    "Tahun": "2006",
+    "Genre": "Drama/Misteri/Sci-Fi",
+    "Sutradara": "Christopher Nolan"
+  },
+  {
+    "Judul": "Casablanca",
+    "Sinopsis": "Seorang ekspatriat Amerika yang sinis di Maroko harus memutuskan apakah akan membantu mantan kekasihnya dan suaminya melarikan diri dari Nazi.",
+    "Rating": "8.5",
+    "Tahun": "1942",
+    "Genre": "Drama/Romansa/Perang",
+    "Sutradara": "Michael Curtiz"
+  },
+  {
+    "Judul": "The Lion King",
+    "Sinopsis": "Seorang pangeran singa muda diasingkan setelah pembunuhan ayahnya, hanya untuk belajar arti sebenarnya dari tanggung jawab dan keberanian.",
+    "Rating": "8.5",
+    "Tahun": "1994",
+    "Genre": "Animasi/Petualangan/Drama",
+    "Sutradara": "Roger Allers & Rob Minkoff"
+  },
+  {
+    "Judul": "2001: A Space Odyssey",
+    "Sinopsis": "Setelah menemukan artefak misterius di bawah permukaan bulan, umat manusia berangkat mencari asalnya dengan bantuan superkomputer HAL 9000.",
+    "Rating": "8.3",
+    "Tahun": "1968",
+    "Genre": "Petualangan/Sci-Fi",
+    "Sutradara": "Stanley Kubrick"
+  },
+  {
+    "Judul": "Grave of the Fireflies",
+    "Sinopsis": "Seorang anak laki-laki dan adik perempuannya berjuang untuk bertahan hidup di Jepang selama hari-hari terakhir Perang Dunia II.",
+    "Rating": "8.5",
+    "Tahun": "1988",
+    "Genre": "Animasi/Drama/Perang",
+    "Sutradara": "Isao Takahata"
+  },
+  {
+    "Judul": "Memento",
+    "Sinopsis": "Seorang pria dengan kehilangan ingatan jangka pendek mencoba melacak pembunuh istrinya menggunakan catatan dan tato.",
+    "Rating": "8.4",
+    "Tahun": "2000",
+    "Genre": "Misteri/Thriller",
+    "Sutradara": "Christopher Nolan"
+  },
+  {
+    "Judul": "Avatar: The Way of Water",
+    "Sinopsis": "Jake Sully tinggal bersama keluarga barunya di planet Pandora. Ketika ancaman lama kembali, ia harus bekerja sama dengan tentara Na'vi.",
+    "Rating": "7.5",
+    "Tahun": "2022",
+    "Genre": "Aksi/Petualangan/Sci-Fi",
+    "Sutradara": "James Cameron"
+  },
+  {
+    "Judul": "Braveheart",
+    "Sinopsis": "William Wallace memimpin rakyat Skotlandia dalam pemberontakan melawan Raja Edward I dari Inggris yang tiran.",
+    "Rating": "8.3",
+    "Tahun": "1995",
+    "Genre": "Biografi/Drama/Sejarah",
+    "Sutradara": "Mel Gibson"
+  },
+  {
+    "Judul": "The Truman Show",
+    "Sinopsis": "Seorang penjual asuransi menemukan bahwa seluruh hidupnya sebenarnya adalah sebuah acara TV realitas yang disiarkan ke seluruh dunia.",
+    "Rating": "8.2",
+    "Tahun": "1998",
+    "Genre": "Komedi/Drama",
+    "Sutradara": "Peter Weir"
+  },
+  {
+    "Judul": "Hamilton",
+    "Sinopsis": "Rekaman teater musikal Broadway asli yang menceritakan kehidupan Alexander Hamilton, salah satu bapak pendiri Amerika Serikat.",
+    "Rating": "8.3",
+    "Tahun": "2020",
+    "Genre": "Biografi/Drama/Musikal",
+    "Sutradara": "Thomas Kail"
+  },
+  {
+    "Judul": "Amélie",
+    "Sinopsis": "Seorang gadis naif di Paris memutuskan untuk membantu orang-orang di sekitarnya menemukan kebahagiaan, sambil menemukan cintanya sendiri.",
+    "Rating": "8.3",
+    "Tahun": "2001",
+    "Genre": "Komedi/Romansa",
+    "Sutradara": "Jean-Pierre Jeunet"
+  },
+  {
+    "Judul": "Inside Out 2",
+    "Sinopsis": "Riley yang kini beranjak remaja menghadapi emosi-emosi baru yang mulai muncul di pusat kendali pikirannya, termasuk kecemasan.",
+    "Rating": "7.7",
+    "Tahun": "2024",
+    "Genre": "Animasi/Petualangan/Komedi",
+    "Sutradara": "Kelsey Mann"
+  },
+  {
+    "Judul": "Django Unchained",
+    "Sinopsis": "Dengan bantuan seorang pemburu bayaran Jerman, seorang budak yang dibebaskan berangkat untuk menyelamatkan istrinya dari pemilik perkebunan yang kejam.",
+    "Rating": "8.5",
+    "Tahun": "2012",
+    "Genre": "Drama/Western",
+    "Sutradara": "Quentin Tarantino"
+  },
+  {
+    "Judul": "Mad Max: Fury Road",
+    "Sinopsis": "Di gurun pasca-apokaliptik, seorang wanita memberontak melawan penguasa tiran untuk mencari tanah airnya dengan bantuan seorang pengembara bernama Max.",
+    "Rating": "8.1",
+    "Tahun": "2015",
+    "Genre": "Aksi/Petualangan/Sci-Fi",
+    "Sutradara": "George Miller"
+  }
+]

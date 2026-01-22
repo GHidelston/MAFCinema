@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <title>MAF Cinema</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <h1>🎬 MAF Cinema</h1>
+    <p>Daftar Film Terbaik Sepanjang Masa</p>
+  </header>
+
+  <section class="search">
+    <input type="text" id="searchInput" placeholder="Cari film (judul, genre, sutradara, tahun...)"
+      onkeyup="searchFilm()">
+    <button onclick="searchFilm()">Cari</button>
+  </section>
+
+  <main id="filmContainer">
+    <!-- Data film akan muncul di sini -->
+  </main>
+
+  <script>
+    const FILMS_DATA = "film.json"; // Mengarah langsung ke file JSON (untuk Static Host/GitHub Pages)
+    const filmContainer = document.getElementById("filmContainer");
+    let allFilms = []; // Menyimpan semua data film di memori
+
+    // Ambil semua film saat halaman dibuka
+    fetch(FILMS_DATA)
+      .then(res => res.json())
+      .then(data => {
+        allFilms = data; // Simpan data ke variabel global
+        tampilkanFilm(allFilms); // Tampilkan semua film
+      })
+      .catch(err => {
+        filmContainer.innerHTML = "<p>Gagal memuat data film. Pastikan file film.json ada.</p>";
+        console.error("Error fetching data:", err);
+      });
+
+    function tampilkanFilm(films) {
+      filmContainer.innerHTML = "";
+
+      if (films.length === 0) {
+        filmContainer.innerHTML = "<p>Film tidak ditemukan.</p>";
+        return;
+      }
+
+      films.forEach(film => {
+        const card = document.createElement("div");
+        card.className = "film-card";
+
+        card.innerHTML = `
+          <h2>${film.Judul}</h2>
+          <p><strong>Tahun:</strong> ${film.Tahun}</p>
+          <p><strong>Genre:</strong> ${film.Genre}</p>
+          <p><strong>Rating:</strong> ⭐ ${film.Rating}</p>
+          <p class="sinopsis">${film.Sinopsis}</p>
+          <p class="sutradara">🎥 ${film.Sutradara}</p>
+        `;
+
+        filmContainer.appendChild(card);
+      });
+    }
+
+    function searchFilm() {
+      const keyword = document.getElementById("searchInput").value.toLowerCase().trim();
+
+      // Filter data di sisi client (browser)
+      const filteredFilms = allFilms.filter(film => {
+        return (
+          film.Judul.toLowerCase().includes(keyword) ||
+          film.Sinopsis.toLowerCase().includes(keyword) ||
+          film.Tahun.toLowerCase().includes(keyword) ||
+          film.Genre.toLowerCase().includes(keyword) ||
+          film.Sutradara.toLowerCase().includes(keyword) ||
+          film.Rating.toLowerCase().includes(keyword)
+        );
+      });
+
+      tampilkanFilm(filteredFilms);
+    }
+  </script>
+
+</body>
+
+</html>
